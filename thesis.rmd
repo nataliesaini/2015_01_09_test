@@ -1,3 +1,10 @@
 
-new 
-thesis 
+##new 
+##thesis 
+
+-get item1
+-get item2
+-get item3
+
+MAKE FIGURE
+this is *reall* **reall** cool
