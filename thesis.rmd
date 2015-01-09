@@ -12,7 +12,7 @@ this is *reall* **reall** cool
 new head point
 ```{r}
 results <- c(1, 2, 3, 4, 5)
-print ("notfoo")
+print ("foo")
 barplot(results, horiz= "TRUE", col = "red")
 
 ```{r}
