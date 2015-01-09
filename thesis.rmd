@@ -14,5 +14,7 @@ new head point
 results <- c(1, 2, 3, 4, 5)
 print (results)
 barplot(results, horiz= "TRUE", col = "red")
-```
+
+```{r}
+plot (results)
 
