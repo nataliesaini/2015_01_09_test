@@ -13,6 +13,6 @@ new head point
 ```{r}
 results <- c(1, 2, 3, 4, 5)
 print (results)
-plot(results)
+barplot(results, horiz= "TRUE", col = "red")
 ```
 
